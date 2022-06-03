@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://sleepwhereitravel.com/sitemap.xml
+Disallow:
